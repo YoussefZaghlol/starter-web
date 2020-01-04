@@ -7,7 +7,11 @@ this does not do any thing and just some filler text to learn git
 some filler for nothing
 
 ## purpose
+ 
+this will be in the staging area
 
 ## deployment
+
+this will be in our working directory
 
 ## how to help
