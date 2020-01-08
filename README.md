@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 more text for nothing
-this does not do any thing and just some filler text to learn git
+this does not do any thing and just some filler text to learn git, more changes from conflict
 
 ## introduction
  
